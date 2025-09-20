@@ -69,5 +69,5 @@ Server: I'm busy
 Typing "bye" from the client or server ends the chat session.
 
 ✍️ Author
-Devesh Jhajharia
-📧 Email: deveshjhajharia714@gmail.com
+Sunidhi Gupta
+📧 Email: sunidhi.x.gupta@gmail.com
